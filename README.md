@@ -5,6 +5,6 @@ This project is about:
 
 Project Members:
 1. Sam Sword
-2. Eli Nacar
+2. Elijah Nacar
 3. Jack McNally
 4. Tess Wagner
