@@ -1,142 +1,142 @@
 ,team_name,away_wins,home_wins,away_losses,home_losses,total_goals_scored,total_goals_against,made_playoffs,total_wins,goal_diff
-2,Los Angeles Kings,15,17,26,24,231,266,No,32,-35
-3,Tampa Bay Lightning,11,20,30,21,223,267,No,31,-44
-10,Vancouver Canucks,18,21,23,20,213,215,No,39,-2
-11,Chicago Blackhawks,17,23,24,18,239,235,No,40,4
-16,St Louis Blues,13,20,28,21,205,237,No,33,-32
-18,Phoenix Coyotes,21,17,20,24,214,231,No,38,-17
-19,New York Islanders,17,18,24,23,194,243,No,35,-49
-20,Toronto Maple Leafs,18,18,23,23,231,260,No,36,-29
-21,Florida Panthers,20,18,21,23,216,226,No,38,-10
-22,Buffalo Sabres,19,20,22,21,255,242,No,39,13
-26,Columbus Blue Jackets,14,20,27,21,193,218,No,34,-25
-28,Edmonton Oilers,18,23,23,18,235,251,No,41,-16
-30,Carolina Hurricanes,19,24,22,17,252,249,No,43,3
-32,Atlanta Thrashers,15,19,26,22,216,272,No,34,-56
-35,Los Angeles Kings,16,18,25,23,207,234,No,34,-27
-36,Tampa Bay Lightning,12,12,29,29,210,279,No,24,-69
-42,Nashville Predators,16,24,25,17,213,233,No,40,-20
-45,Ottawa Senators,14,22,27,19,217,237,No,36,-20
-47,Minnesota Wild,17,23,24,18,219,200,No,40,19
-51,Phoenix Coyotes,13,23,28,18,208,252,No,36,-44
-52,New York Islanders,9,17,32,24,201,279,No,26,-78
-53,Toronto Maple Leafs,18,16,23,25,250,293,No,34,-43
-54,Florida Panthers,19,22,22,19,234,231,No,41,3
-55,Buffalo Sabres,18,23,23,18,250,234,No,41,16
-57,Colorado Avalanche,14,18,27,23,199,257,No,32,-58
-58,Dallas Stars,16,20,25,21,230,257,No,36,-27
-61,Edmonton Oilers,20,18,21,23,234,248,No,38,-14
-65,Atlanta Thrashers,17,18,24,23,257,280,No,35,-23
-69,Tampa Bay Lightning,13,21,28,20,217,260,No,34,-43
-71,New York Rangers,20,18,21,23,222,218,No,38,4
-80,Minnesota Wild,13,25,28,16,219,246,No,38,-27
-82,St Louis Blues,22,18,19,23,225,223,No,40,2
-83,Anaheim Ducks,14,25,27,16,238,251,No,39,-13
-85,New York Islanders,11,23,30,18,222,264,No,34,-42
-86,Toronto Maple Leafs,12,18,29,23,214,267,No,30,-53
-87,Florida Panthers,16,16,25,25,208,244,No,32,-36
-89,Calgary Flames,20,20,21,21,204,210,No,40,-6
-91,Dallas Stars,14,23,27,18,237,254,No,37,-17
-92,Columbus Blue Jackets,12,20,29,21,216,259,No,32,-43
-94,Edmonton Oilers,9,18,32,23,214,284,No,27,-70
-96,Carolina Hurricanes,14,21,27,20,230,256,No,35,-26
-98,Atlanta Thrashers,16,19,25,22,234,256,No,35,-22
-99,New Jersey Devils,16,22,25,19,174,209,No,38,-35
-111,Ottawa Senators,16,16,25,25,192,250,No,32,-58
-113,Minnesota Wild,20,19,21,22,206,233,No,39,-27
-115,St Louis Blues,15,23,26,18,240,234,No,38,6
-118,New York Islanders,13,17,28,24,229,264,No,30,-35
-119,Toronto Maple Leafs,19,18,22,23,218,251,No,37,-33
-120,Florida Panthers,14,16,27,25,195,229,No,30,-34
-122,Calgary Flames,18,23,23,18,250,237,No,41,13
-123,Colorado Avalanche,14,16,27,25,227,288,No,30,-61
-124,Dallas Stars,20,22,21,19,227,233,No,42,-6
-125,Columbus Blue Jackets,17,17,24,24,215,258,No,34,-43
-127,Edmonton Oilers,12,13,29,28,193,269,No,25,-76
-129,Carolina Hurricanes,18,22,23,19,236,239,No,40,-3
-131,Atlanta Thrashers,17,17,24,24,223,269,No,34,-46
-135,Tampa Bay Lightning,13,25,28,16,235,281,No,38,-46
-145,Montreal Canadiens,15,16,26,25,212,226,No,31,-14
-146,Minnesota Wild,15,20,26,21,177,226,No,35,-49
-149,Anaheim Ducks,13,21,28,20,204,231,No,34,-27
-151,New York Islanders,17,17,24,24,203,255,No,34,-52
-152,Toronto Maple Leafs,17,18,24,23,231,264,No,35,-33
-154,Buffalo Sabres,18,21,23,20,218,230,No,39,-12
-155,Calgary Flames,14,23,27,18,202,226,No,37,-24
-156,Colorado Avalanche,19,22,22,19,208,220,No,41,-12
-157,Dallas Stars,20,22,21,19,211,222,No,42,-11
-158,Columbus Blue Jackets,12,17,29,24,202,262,No,29,-60
-159,Winnipeg Jets,14,23,27,18,225,246,No,37,-21
-160,Edmonton Oilers,14,18,27,23,212,239,No,32,-27
-162,Carolina Hurricanes,13,20,28,21,213,243,No,33,-30
-165,New Jersey Devils,14,21,27,20,197,208,No,35,-11
-174,Nashville Predators,19,19,22,22,216,242,No,38,-26
-175,Vancouver Canucks,16,20,25,21,196,223,No,36,-27
-177,Ottawa Senators,19,18,22,23,236,265,No,37,-29
-180,Washington Capitals,17,21,24,20,235,240,No,38,-5
-183,Phoenix Coyotes,15,22,26,19,216,231,No,37,-15
-184,New York Islanders,21,13,20,28,225,267,No,34,-42
-185,Toronto Maple Leafs,14,24,27,17,231,256,No,38,-25
-186,Florida Panthers,13,16,28,25,196,268,No,29,-72
-187,Buffalo Sabres,8,13,33,28,157,248,No,21,-91
-188,Calgary Flames,16,19,25,22,209,241,No,35,-32
-192,Winnipeg Jets,19,18,22,23,227,237,No,37,-10
-193,Edmonton Oilers,13,16,28,25,203,270,No,29,-67
-195,Carolina Hurricanes,18,18,23,23,207,230,No,36,-23
-198,New Jersey Devils,13,19,28,22,181,216,No,32,-35
-199,Philadelphia Flyers,10,23,31,18,215,234,No,33,-19
-200,Los Angeles Kings,15,25,26,16,220,205,No,40,15
-202,Boston Bruins,17,24,24,17,213,211,No,41,2
-206,San Jose Sharks,21,19,20,22,228,232,No,40,-4
-218,Toronto Maple Leafs,8,22,33,19,211,262,No,30,-51
-219,Florida Panthers,17,21,24,20,206,223,No,38,-17
-220,Buffalo Sabres,9,14,32,27,161,274,No,23,-113
-222,Colorado Avalanche,16,23,25,18,219,227,No,39,-8
-223,Dallas Stars,24,17,17,24,261,260,No,41,1
-224,Columbus Blue Jackets,23,19,18,22,236,250,No,42,-14
-226,Edmonton Oilers,9,15,32,26,198,283,No,24,-85
-228,Carolina Hurricanes,12,18,29,23,188,226,No,30,-38
-229,Arizona Coyotes,13,11,28,30,170,272,No,24,-102
-231,New Jersey Devils,19,19,22,22,184,208,No,38,-24
-235,Boston Bruins,25,17,16,24,240,230,No,42,10
-241,Vancouver Canucks,16,15,25,26,191,243,No,31,-52
-243,Ottawa Senators,17,21,24,20,236,247,No,38,-11
-244,Montreal Canadiens,16,22,25,19,221,236,No,38,-15
-251,Toronto Maple Leafs,15,14,26,27,198,246,No,29,-48
-253,Buffalo Sabres,19,16,22,25,201,222,No,35,-21
-254,Calgary Flames,14,21,27,20,231,260,No,35,-29
-255,Colorado Avalanche,22,17,19,24,216,240,No,39,-24
-257,Columbus Blue Jackets,16,18,25,23,219,252,No,34,-33
-258,Winnipeg Jets,17,18,24,23,215,239,No,35,-24
-259,Edmonton Oilers,12,19,29,22,203,245,No,31,-42
-261,Carolina Hurricanes,16,19,25,22,198,226,No,35,-28
-262,Arizona Coyotes,13,22,28,19,209,245,No,35,-36
-264,New Jersey Devils,12,16,29,25,183,244,No,28,-61
-265,Philadelphia Flyers,14,25,27,16,219,236,No,39,-17
-266,Los Angeles Kings,16,23,25,18,201,205,No,39,-4
-267,Tampa Bay Lightning,19,23,22,18,234,227,No,42,7
-271,Detroit Red Wings,16,17,25,24,207,244,No,33,-37
-274,Vancouver Canucks,12,18,29,23,182,243,No,30,-61
-283,New York Islanders,19,22,22,19,241,242,No,41,-1
-285,Florida Panthers,16,19,25,22,210,237,No,35,-27
-286,Buffalo Sabres,13,20,28,21,201,237,No,33,-36
-288,Colorado Avalanche,9,13,32,28,166,278,No,22,-112
-289,Dallas Stars,12,22,29,19,223,262,No,34,-39
-291,Winnipeg Jets,18,22,23,19,249,256,No,40,-7
-294,Carolina Hurricanes,13,23,28,18,215,236,No,36,-21
-295,Arizona Coyotes,12,18,29,23,197,260,No,30,-63
-302,New York Rangers,13,21,28,20,231,268,No,34,-37
-304,Detroit Red Wings,14,16,27,25,217,255,No,30,-38
-307,Vancouver Canucks,15,16,26,25,218,264,No,31,-46
-308,Chicago Blackhawks,15,18,26,23,229,256,No,33,-27
-309,Ottawa Senators,12,16,29,25,221,291,No,28,-70
-310,Montreal Canadiens,11,18,30,23,209,264,No,29,-55
-313,St Louis Blues,20,24,21,17,226,222,No,44,4
-316,New York Islanders,16,19,25,22,264,296,No,35,-32
-318,Florida Panthers,17,27,24,14,248,246,No,44,2
-319,Buffalo Sabres,14,11,27,30,199,280,No,25,-81
-320,Calgary Flames,20,17,21,24,218,248,No,37,-30
-322,Dallas Stars,16,26,25,15,235,225,No,42,10
-325,Edmonton Oilers,17,19,24,22,234,263,No,36,-29
-327,Carolina Hurricanes,17,19,24,22,228,256,No,36,-28
-328,Arizona Coyotes,13,16,28,25,208,256,No,29,-48
+2,Los Angeles Kings,15.0,17.0,26.0,24.0,231.0,266.0,No,32.0,-35.0
+3,Tampa Bay Lightning,11.0,20.0,30.0,21.0,223.0,267.0,No,31.0,-44.0
+10,Vancouver Canucks,18.0,21.0,23.0,20.0,213.0,215.0,No,39.0,-2.0
+11,Chicago Blackhawks,17.0,23.0,24.0,18.0,239.0,235.0,No,40.0,4.0
+16,St Louis Blues,13.0,20.0,28.0,21.0,205.0,237.0,No,33.0,-32.0
+18,Phoenix Coyotes,21.0,17.0,20.0,24.0,214.0,231.0,No,38.0,-17.0
+19,New York Islanders,17.0,18.0,24.0,23.0,194.0,243.0,No,35.0,-49.0
+20,Toronto Maple Leafs,18.0,18.0,23.0,23.0,231.0,260.0,No,36.0,-29.0
+21,Florida Panthers,20.0,18.0,21.0,23.0,216.0,226.0,No,38.0,-10.0
+22,Buffalo Sabres,19.0,20.0,22.0,21.0,255.0,242.0,No,39.0,13.0
+26,Columbus Blue Jackets,14.0,20.0,27.0,21.0,193.0,218.0,No,34.0,-25.0
+28,Edmonton Oilers,18.0,23.0,23.0,18.0,235.0,251.0,No,41.0,-16.0
+30,Carolina Hurricanes,19.0,24.0,22.0,17.0,252.0,249.0,No,43.0,3.0
+32,Atlanta Thrashers,15.0,19.0,26.0,22.0,216.0,272.0,No,34.0,-56.0
+35,Los Angeles Kings,16.0,18.0,25.0,23.0,207.0,234.0,No,34.0,-27.0
+36,Tampa Bay Lightning,12.0,12.0,29.0,29.0,210.0,279.0,No,24.0,-69.0
+42,Nashville Predators,16.0,24.0,25.0,17.0,213.0,233.0,No,40.0,-20.0
+45,Ottawa Senators,14.0,22.0,27.0,19.0,217.0,237.0,No,36.0,-20.0
+47,Minnesota Wild,17.0,23.0,24.0,18.0,219.0,200.0,No,40.0,19.0
+51,Phoenix Coyotes,13.0,23.0,28.0,18.0,208.0,252.0,No,36.0,-44.0
+52,New York Islanders,9.0,17.0,32.0,24.0,201.0,279.0,No,26.0,-78.0
+53,Toronto Maple Leafs,18.0,16.0,23.0,25.0,250.0,293.0,No,34.0,-43.0
+54,Florida Panthers,19.0,22.0,22.0,19.0,234.0,231.0,No,41.0,3.0
+55,Buffalo Sabres,18.0,23.0,23.0,18.0,250.0,234.0,No,41.0,16.0
+57,Colorado Avalanche,14.0,18.0,27.0,23.0,199.0,257.0,No,32.0,-58.0
+58,Dallas Stars,16.0,20.0,25.0,21.0,230.0,257.0,No,36.0,-27.0
+61,Edmonton Oilers,20.0,18.0,21.0,23.0,234.0,248.0,No,38.0,-14.0
+65,Atlanta Thrashers,17.0,18.0,24.0,23.0,257.0,280.0,No,35.0,-23.0
+69,Tampa Bay Lightning,13.0,21.0,28.0,20.0,217.0,260.0,No,34.0,-43.0
+71,New York Rangers,20.0,18.0,21.0,23.0,222.0,218.0,No,38.0,4.0
+80,Minnesota Wild,13.0,25.0,28.0,16.0,219.0,246.0,No,38.0,-27.0
+82,St Louis Blues,22.0,18.0,19.0,23.0,225.0,223.0,No,40.0,2.0
+83,Anaheim Ducks,14.0,25.0,27.0,16.0,238.0,251.0,No,39.0,-13.0
+85,New York Islanders,11.0,23.0,30.0,18.0,222.0,264.0,No,34.0,-42.0
+86,Toronto Maple Leafs,12.0,18.0,29.0,23.0,214.0,267.0,No,30.0,-53.0
+87,Florida Panthers,16.0,16.0,25.0,25.0,208.0,244.0,No,32.0,-36.0
+89,Calgary Flames,20.0,20.0,21.0,21.0,204.0,210.0,No,40.0,-6.0
+91,Dallas Stars,14.0,23.0,27.0,18.0,237.0,254.0,No,37.0,-17.0
+92,Columbus Blue Jackets,12.0,20.0,29.0,21.0,216.0,259.0,No,32.0,-43.0
+94,Edmonton Oilers,9.0,18.0,32.0,23.0,214.0,284.0,No,27.0,-70.0
+96,Carolina Hurricanes,14.0,21.0,27.0,20.0,230.0,256.0,No,35.0,-26.0
+98,Atlanta Thrashers,16.0,19.0,25.0,22.0,234.0,256.0,No,35.0,-22.0
+99,New Jersey Devils,16.0,22.0,25.0,19.0,174.0,209.0,No,38.0,-35.0
+111,Ottawa Senators,16.0,16.0,25.0,25.0,192.0,250.0,No,32.0,-58.0
+113,Minnesota Wild,20.0,19.0,21.0,22.0,206.0,233.0,No,39.0,-27.0
+115,St Louis Blues,15.0,23.0,26.0,18.0,240.0,234.0,No,38.0,6.0
+118,New York Islanders,13.0,17.0,28.0,24.0,229.0,264.0,No,30.0,-35.0
+119,Toronto Maple Leafs,19.0,18.0,22.0,23.0,218.0,251.0,No,37.0,-33.0
+120,Florida Panthers,14.0,16.0,27.0,25.0,195.0,229.0,No,30.0,-34.0
+122,Calgary Flames,18.0,23.0,23.0,18.0,250.0,237.0,No,41.0,13.0
+123,Colorado Avalanche,14.0,16.0,27.0,25.0,227.0,288.0,No,30.0,-61.0
+124,Dallas Stars,20.0,22.0,21.0,19.0,227.0,233.0,No,42.0,-6.0
+125,Columbus Blue Jackets,17.0,17.0,24.0,24.0,215.0,258.0,No,34.0,-43.0
+127,Edmonton Oilers,12.0,13.0,29.0,28.0,193.0,269.0,No,25.0,-76.0
+129,Carolina Hurricanes,18.0,22.0,23.0,19.0,236.0,239.0,No,40.0,-3.0
+131,Atlanta Thrashers,17.0,17.0,24.0,24.0,223.0,269.0,No,34.0,-46.0
+135,Tampa Bay Lightning,13.0,25.0,28.0,16.0,235.0,281.0,No,38.0,-46.0
+145,Montreal Canadiens,15.0,16.0,26.0,25.0,212.0,226.0,No,31.0,-14.0
+146,Minnesota Wild,15.0,20.0,26.0,21.0,177.0,226.0,No,35.0,-49.0
+149,Anaheim Ducks,13.0,21.0,28.0,20.0,204.0,231.0,No,34.0,-27.0
+151,New York Islanders,17.0,17.0,24.0,24.0,203.0,255.0,No,34.0,-52.0
+152,Toronto Maple Leafs,17.0,18.0,24.0,23.0,231.0,264.0,No,35.0,-33.0
+154,Buffalo Sabres,18.0,21.0,23.0,20.0,218.0,230.0,No,39.0,-12.0
+155,Calgary Flames,14.0,23.0,27.0,18.0,202.0,226.0,No,37.0,-24.0
+156,Colorado Avalanche,19.0,22.0,22.0,19.0,208.0,220.0,No,41.0,-12.0
+157,Dallas Stars,20.0,22.0,21.0,19.0,211.0,222.0,No,42.0,-11.0
+158,Columbus Blue Jackets,12.0,17.0,29.0,24.0,202.0,262.0,No,29.0,-60.0
+159,Winnipeg Jets,14.0,23.0,27.0,18.0,225.0,246.0,No,37.0,-21.0
+160,Edmonton Oilers,14.0,18.0,27.0,23.0,212.0,239.0,No,32.0,-27.0
+162,Carolina Hurricanes,13.0,20.0,28.0,21.0,213.0,243.0,No,33.0,-30.0
+165,New Jersey Devils,14.0,21.0,27.0,20.0,197.0,208.0,No,35.0,-11.0
+174,Nashville Predators,19.0,19.0,22.0,22.0,216.0,242.0,No,38.0,-26.0
+175,Vancouver Canucks,16.0,20.0,25.0,21.0,196.0,223.0,No,36.0,-27.0
+177,Ottawa Senators,19.0,18.0,22.0,23.0,236.0,265.0,No,37.0,-29.0
+180,Washington Capitals,17.0,21.0,24.0,20.0,235.0,240.0,No,38.0,-5.0
+183,Phoenix Coyotes,15.0,22.0,26.0,19.0,216.0,231.0,No,37.0,-15.0
+184,New York Islanders,21.0,13.0,20.0,28.0,225.0,267.0,No,34.0,-42.0
+185,Toronto Maple Leafs,14.0,24.0,27.0,17.0,231.0,256.0,No,38.0,-25.0
+186,Florida Panthers,13.0,16.0,28.0,25.0,196.0,268.0,No,29.0,-72.0
+187,Buffalo Sabres,8.0,13.0,33.0,28.0,157.0,248.0,No,21.0,-91.0
+188,Calgary Flames,16.0,19.0,25.0,22.0,209.0,241.0,No,35.0,-32.0
+192,Winnipeg Jets,19.0,18.0,22.0,23.0,227.0,237.0,No,37.0,-10.0
+193,Edmonton Oilers,13.0,16.0,28.0,25.0,203.0,270.0,No,29.0,-67.0
+195,Carolina Hurricanes,18.0,18.0,23.0,23.0,207.0,230.0,No,36.0,-23.0
+198,New Jersey Devils,13.0,19.0,28.0,22.0,181.0,216.0,No,32.0,-35.0
+199,Philadelphia Flyers,10.0,23.0,31.0,18.0,215.0,234.0,No,33.0,-19.0
+200,Los Angeles Kings,15.0,25.0,26.0,16.0,220.0,205.0,No,40.0,15.0
+202,Boston Bruins,17.0,24.0,24.0,17.0,213.0,211.0,No,41.0,2.0
+206,San Jose Sharks,21.0,19.0,20.0,22.0,228.0,232.0,No,40.0,-4.0
+218,Toronto Maple Leafs,8.0,22.0,33.0,19.0,211.0,262.0,No,30.0,-51.0
+219,Florida Panthers,17.0,21.0,24.0,20.0,206.0,223.0,No,38.0,-17.0
+220,Buffalo Sabres,9.0,14.0,32.0,27.0,161.0,274.0,No,23.0,-113.0
+222,Colorado Avalanche,16.0,23.0,25.0,18.0,219.0,227.0,No,39.0,-8.0
+223,Dallas Stars,24.0,17.0,17.0,24.0,261.0,260.0,No,41.0,1.0
+224,Columbus Blue Jackets,23.0,19.0,18.0,22.0,236.0,250.0,No,42.0,-14.0
+226,Edmonton Oilers,9.0,15.0,32.0,26.0,198.0,283.0,No,24.0,-85.0
+228,Carolina Hurricanes,12.0,18.0,29.0,23.0,188.0,226.0,No,30.0,-38.0
+229,Arizona Coyotes,13.0,11.0,28.0,30.0,170.0,272.0,No,24.0,-102.0
+231,New Jersey Devils,19.0,19.0,22.0,22.0,184.0,208.0,No,38.0,-24.0
+235,Boston Bruins,25.0,17.0,16.0,24.0,240.0,230.0,No,42.0,10.0
+241,Vancouver Canucks,16.0,15.0,25.0,26.0,191.0,243.0,No,31.0,-52.0
+243,Ottawa Senators,17.0,21.0,24.0,20.0,236.0,247.0,No,38.0,-11.0
+244,Montreal Canadiens,16.0,22.0,25.0,19.0,221.0,236.0,No,38.0,-15.0
+251,Toronto Maple Leafs,15.0,14.0,26.0,27.0,198.0,246.0,No,29.0,-48.0
+253,Buffalo Sabres,19.0,16.0,22.0,25.0,201.0,222.0,No,35.0,-21.0
+254,Calgary Flames,14.0,21.0,27.0,20.0,231.0,260.0,No,35.0,-29.0
+255,Colorado Avalanche,22.0,17.0,19.0,24.0,216.0,240.0,No,39.0,-24.0
+257,Columbus Blue Jackets,16.0,18.0,25.0,23.0,219.0,252.0,No,34.0,-33.0
+258,Winnipeg Jets,17.0,18.0,24.0,23.0,215.0,239.0,No,35.0,-24.0
+259,Edmonton Oilers,12.0,19.0,29.0,22.0,203.0,245.0,No,31.0,-42.0
+261,Carolina Hurricanes,16.0,19.0,25.0,22.0,198.0,226.0,No,35.0,-28.0
+262,Arizona Coyotes,13.0,22.0,28.0,19.0,209.0,245.0,No,35.0,-36.0
+264,New Jersey Devils,12.0,16.0,29.0,25.0,183.0,244.0,No,28.0,-61.0
+265,Philadelphia Flyers,14.0,25.0,27.0,16.0,219.0,236.0,No,39.0,-17.0
+266,Los Angeles Kings,16.0,23.0,25.0,18.0,201.0,205.0,No,39.0,-4.0
+267,Tampa Bay Lightning,19.0,23.0,22.0,18.0,234.0,227.0,No,42.0,7.0
+271,Detroit Red Wings,16.0,17.0,25.0,24.0,207.0,244.0,No,33.0,-37.0
+274,Vancouver Canucks,12.0,18.0,29.0,23.0,182.0,243.0,No,30.0,-61.0
+283,New York Islanders,19.0,22.0,22.0,19.0,241.0,242.0,No,41.0,-1.0
+285,Florida Panthers,16.0,19.0,25.0,22.0,210.0,237.0,No,35.0,-27.0
+286,Buffalo Sabres,13.0,20.0,28.0,21.0,201.0,237.0,No,33.0,-36.0
+288,Colorado Avalanche,9.0,13.0,32.0,28.0,166.0,278.0,No,22.0,-112.0
+289,Dallas Stars,12.0,22.0,29.0,19.0,223.0,262.0,No,34.0,-39.0
+291,Winnipeg Jets,18.0,22.0,23.0,19.0,249.0,256.0,No,40.0,-7.0
+294,Carolina Hurricanes,13.0,23.0,28.0,18.0,215.0,236.0,No,36.0,-21.0
+295,Arizona Coyotes,12.0,18.0,29.0,23.0,197.0,260.0,No,30.0,-63.0
+302,New York Rangers,13.0,21.0,28.0,20.0,231.0,268.0,No,34.0,-37.0
+304,Detroit Red Wings,14.0,16.0,27.0,25.0,217.0,255.0,No,30.0,-38.0
+307,Vancouver Canucks,15.0,16.0,26.0,25.0,218.0,264.0,No,31.0,-46.0
+308,Chicago Blackhawks,15.0,18.0,26.0,23.0,229.0,256.0,No,33.0,-27.0
+309,Ottawa Senators,12.0,16.0,29.0,25.0,221.0,291.0,No,28.0,-70.0
+310,Montreal Canadiens,11.0,18.0,30.0,23.0,209.0,264.0,No,29.0,-55.0
+313,St Louis Blues,20.0,24.0,21.0,17.0,226.0,222.0,No,44.0,4.0
+316,New York Islanders,16.0,19.0,25.0,22.0,264.0,296.0,No,35.0,-32.0
+318,Florida Panthers,17.0,27.0,24.0,14.0,248.0,246.0,No,44.0,2.0
+319,Buffalo Sabres,14.0,11.0,27.0,30.0,199.0,280.0,No,25.0,-81.0
+320,Calgary Flames,20.0,17.0,21.0,24.0,218.0,248.0,No,37.0,-30.0
+322,Dallas Stars,16.0,26.0,25.0,15.0,235.0,225.0,No,42.0,10.0
+325,Edmonton Oilers,17.0,19.0,24.0,22.0,234.0,263.0,No,36.0,-29.0
+327,Carolina Hurricanes,17.0,19.0,24.0,22.0,228.0,256.0,No,36.0,-28.0
+328,Arizona Coyotes,13.0,16.0,28.0,25.0,208.0,256.0,No,29.0,-48.0
