@@ -1,4 +1,4 @@
-# 303_2_krish_fanclub
+# Hockey Playoff Success Predictive Modeling
 STAT 303-2 Final Project: Krish's Fanclub
 
 The Nashville Predators, like any other NHL team, aspires to qualify for the playoffs. At the start of this project around halfway through the season, with 23 wins and 18 losses, the Predators chance to make the playoffs was slim. The objective of this research was to develop a linear regression model that predicted what the Nashville Predators had to do in the second half of their season to secure a playoff spot. To achieve this goal, we planned to train our model on data from the last 10 years of NHL teams that made the playoffs, incorporating factors such as wins, losses, home and away games, and goal differential.
